@@ -43,15 +43,15 @@ vityarthi_proj/
 ## Screenshots
 
 ### Java Version
-![Java Version](screenshots/java_version.png)
+![Java Version](Screenshots/java_version.png)
 
 ### IDE Setup
-![IDE Setup](screenshots/intellij_setup.png)
+![IDE Setup](Screenshots/intellij_setup.png)
 
 ### Program Running
-![Program Running](screenshots/programme_output1.png)
-![Program Running](screenshots/programme_output2.png)
+![Program Running](Screenshots/programme_output1.png)
+![Program Running](Screenshots/programme_output2.png)
 
 
 ## Author
-Anshika Tiwari
+Keshav Acharya
